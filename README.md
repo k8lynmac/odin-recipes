@@ -1,1 +1,2 @@
 # odin-recipes
+Project with the Odin Project where I'm building a basic recipe website. The website consists of a main index page and will have links to a few recipes. Through this project, I will demonstrate my HTML skills. 

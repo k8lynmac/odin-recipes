@@ -1,0 +1,27 @@
+.thai {
+    background-color: rgb(228, 104, 187);
+    font-size: 24px;
+    text-align: center
+    
+}
+
+.turk {
+    background-color: rgb(197, 130, 231);
+    font-size: 24px;
+    font-family: Papyrus;
+    text-align: center
+}
+
+.flower {
+    background-color: rgb(189, 90, 166);
+    font-family: Copperplate;
+    font-size: 24px;
+    text-align: center
+    
+}
+
+.title {
+    background-color: lavender;
+    color: blueviolet;
+    
+}
